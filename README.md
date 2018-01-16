@@ -1,1 +1,1 @@
-#Bu Benim ilk php PDO Örnek Çalışmam
+PDO ile Adres Defteri Uygulaması. Insert, Update ve Delete işlemleri yapılmıştır. 
